@@ -1,0 +1,23 @@
+{
+  "kind": "rollcall-schedule-feed",
+  "feedVersion": 1,
+  "sequence": 29894315,
+  "publishedAt": "2026-11-03T04:05:48+05:30",
+  "trimester": "V",
+  "entries": [
+    {
+      "id": "T5-W04",
+      "file": "T5-W04-r1.json",
+      "sha256": "d97d70e5adb6264caeb94a8efd9a1302ee6ab5b40d53621512e230ce3ed44cf2",
+      "bytes": 7313,
+      "revision": 1,
+      "label": "week 4",
+      "from": "2026-11-02",
+      "to": "2026-11-08",
+      "note": null
+    }
+  ],
+  "notice": null,
+  "android": null,
+  "movedTo": null
+}
