@@ -1,8 +1,8 @@
 {
   "kind": "rollcall-schedule-feed",
   "feedVersion": 1,
-  "sequence": 29894315,
-  "publishedAt": "2026-11-03T04:05:48+05:30",
+  "sequence": 29894329,
+  "publishedAt": "2026-11-03T04:19:43+05:30",
   "trimester": "V",
   "entries": [
     {
@@ -18,6 +18,10 @@
     }
   ],
   "notice": null,
-  "android": null,
+  "android": {
+    "latestVersionCode": 40502,
+    "latestVersionName": "4.5.2",
+    "link": "https://github.com/iiftrollcall/schedule/releases/tag/v4.5.2"
+  },
   "movedTo": null
 }
