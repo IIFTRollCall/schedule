@@ -1,8 +1,8 @@
 {
   "kind": "rollcall-schedule-feed",
   "feedVersion": 1,
-  "sequence": 29894329,
-  "publishedAt": "2026-11-03T04:19:43+05:30",
+  "sequence": 29898660,
+  "publishedAt": "2026-11-06T04:30:32+05:30",
   "trimester": "V",
   "entries": [
     {
@@ -14,6 +14,17 @@
       "label": "week 4",
       "from": "2026-11-02",
       "to": "2026-11-08",
+      "note": null
+    },
+    {
+      "id": "T5-W05",
+      "file": "T5-W05-r1.json",
+      "sha256": "20722d543d0205a41f2f877d86f10830a5acee29f8e51c9080944dd2dfcc3fe1",
+      "bytes": 10034,
+      "revision": 1,
+      "label": "week 5",
+      "from": "2026-11-09",
+      "to": "2026-11-15",
       "note": null
     }
   ],
